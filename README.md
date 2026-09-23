@@ -13,4 +13,4 @@
 | Código muerto y logs innecesarios | Contamina el código y aumenta el peso | Se eliminaron funciones comentadas y logs de prueba |
 | Formato e indentación inconsistente | Rompe estándares de legibilidad | Se aplicó indentación uniforme |
 
-[Enlace al sitio publicado en Netlify](https://tu-sitio.netlify.app)
+[Enlace al sitio publicado en Netlify](https://sparkling-sfogliatella-3f187d.netlify.app)
